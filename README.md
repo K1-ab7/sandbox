@@ -49,11 +49,11 @@ download: URL1 URL2 URL3
 **Examples:**
 
 ```
-download: https://example.com/file.zip
+download: http://pixeldrain.com/api/file/xwUkLLwW?download
 ```
 
 ```
-download: https://example.com/a.zip https://example.com/b.pdf https://example.com/c.zip
+download: https://example.com/a.zip https://example.com/b.pdf 
 ```
 
 ---
